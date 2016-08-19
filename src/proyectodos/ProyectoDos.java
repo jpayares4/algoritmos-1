@@ -15,8 +15,9 @@ public class ProyectoDos {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void cmdCalcularActionPerformed(java.awt.event.ActionEvent evt) {
+        String numero1, numero2,res;
+      
     }
     
 }
